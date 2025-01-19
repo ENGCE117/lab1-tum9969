@@ -29,7 +29,7 @@ int main() {
 ## TEST CASE 1
 ### Input
 ```bash
-2 3
+Enter Row & Col : 2 3
 7 6 8
 1 9 4
 ```
